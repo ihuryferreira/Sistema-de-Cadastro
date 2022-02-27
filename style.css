@@ -78,7 +78,7 @@ th{
 }
 
 /*Botão*/
-@media screen and (min-width: 375px){
+@media (min-width: 375px){
 	.btnx {
 		left: 490px;
 		/*top: -20px;*/
