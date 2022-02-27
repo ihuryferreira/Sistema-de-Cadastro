@@ -80,6 +80,6 @@ th{
 /*Botão*/
 @media (min-width: 375px){
 	html, body {
-		width: 98%;
+		width: 1em;
 	}
 }
