@@ -79,7 +79,8 @@ th{
 
 /*Botão*/
 @media (min-width: 375px){
-	.btnx {
-		margin: 52px 50px;
+	.btnx{
+		margin: -42px -30px;
+		position: absolute;
 	}
 }
