@@ -78,7 +78,7 @@ th{
 }
 
 /*Botão*/
-@media (max-width: 575px){
+@media (max-width: 475px){
 	.btnx {
 		left: 490px;
 		/*top: -20px;*/
